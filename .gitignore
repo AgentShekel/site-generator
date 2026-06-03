@@ -1,0 +1,10 @@
+# Docs-only case-study repo — nothing sensitive is tracked.
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
